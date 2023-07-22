@@ -14,12 +14,4 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-    <dependencies>
-        <dependency>
-            <groupId>org.knowm</groupId>
-            <artifactId>jspice</artifactId>
-            <version>0.0.1</version>
-        </dependency>
-    </dependencies>
-
 </project>
